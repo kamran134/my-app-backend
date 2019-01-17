@@ -20,7 +20,7 @@ export class BaseRoute {
    */
   constructor() {
     //initialize variables
-    this.title = "Tour of Heros";
+    this.title = "My-app";
     this.scripts = [];
   }
 
